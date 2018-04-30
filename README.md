@@ -66,3 +66,9 @@ The server can be started form the command line:
 ```bash
 python manage.py runserver 0.0.0.0:8000
 ```
+
+If your browser requires ssl connections, run the sll server:
+
+```bash
+python manage.py runsslserver 0.0.0.0:8000
+```
