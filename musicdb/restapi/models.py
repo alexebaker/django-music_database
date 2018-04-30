@@ -5,7 +5,7 @@ class AlbumArt(models.Model):
     image = models.ImageField(upload_to='album_art')
 
 
-class Genre(models.model):
+class Genre(models.Model):
     name = models.CharField(max_length=50)
 
 

@@ -17,7 +17,7 @@ Music Database for UNM CS 564 Final Project
     Ubuntu
 
     ```bash
-    sudo apt-get python python-dev python-pip libssl-dev mysql-server libmysqlclient-dev
+    sudo apt-get install python python-dev python-pip libssl-dev mysql-server libmysqlclient-dev
     pip install -U pip
     pip install virtualenv
     ```
