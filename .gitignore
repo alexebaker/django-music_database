@@ -1,6 +1,6 @@
 creds.env
 musicdb/**/static
-musicdb/**/media
+musicdb/**/uploads
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
